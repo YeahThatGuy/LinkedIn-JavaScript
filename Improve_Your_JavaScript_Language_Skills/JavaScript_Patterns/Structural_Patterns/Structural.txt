@@ -1,0 +1,4 @@
+Structural Patterns
+Purpose to organise the code
+Patterns: modules, mixins, facade, flyweight and decorator
+Patterns that apply to full applications: MVC, MVP and MVVM
