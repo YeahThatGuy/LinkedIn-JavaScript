@@ -3,6 +3,8 @@
 
 // SINGLETON PATTERN
 // The singleton pattern prevents our class from creating more than one instance of the blue print we've defined.
+// FLYWEIGHT PATTERN
+// Prevents the creation of more images in the memory
 
 let instance = null;
 

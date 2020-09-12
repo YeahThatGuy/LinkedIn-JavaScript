@@ -1,0 +1,10 @@
+The Chain of Responsibility is a pattern to help solve 
+common practical issues of having a request from a client 
+and needing this request to pass through multiple functions 
+or logic to get the result.
+
+What we end up with is a request going through an abstract handler 
+which calls one function or handler after another until the chain is 
+completed. When one handler is completed, we can go to the next one. 
+If there are errors, the abstract handler can provide error information 
+to the back end end client, and so on and so forth.

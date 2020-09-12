@@ -1,0 +1,3 @@
+BEHAVIOURAL PATTERNS
+Focused on the communications between objects
+Similar to implementing better communications between people

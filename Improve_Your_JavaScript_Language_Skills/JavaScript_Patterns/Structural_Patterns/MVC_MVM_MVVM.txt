@@ -1,0 +1,14 @@
+MVC = Model-View-Controller pattern
+Model = data
+View = visuals (HTML) (has access to both the models and controllers)
+Controller = logic (the functions that make the app run)
+
+MVP = Model-View-Presenter pattern
+Model = data 
+View = visuals (HTML) (has access to the presenter)
+Presenter = logic (the functions that make the app run) (pulls data from the model)
+
+MVVM = Model-View-ViewModel pattern
+Model = data
+View = stateless visuals (components)
+View Model = stateful components (hold data and logic)
